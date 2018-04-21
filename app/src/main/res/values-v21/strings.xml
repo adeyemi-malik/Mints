@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">MINTS</string>
+    <string name="app_description">mobile intelligent tracking system</string>
+    <string name="home_text">Home</string>
+    <string name="sign_out">Sign out</string>
+</resources>
